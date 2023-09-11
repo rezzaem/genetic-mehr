@@ -1,0 +1,5 @@
+.elementor-8 .elementor-element.elementor-element-f0b229e{--display:flex;--background-transition:0.3s;--position:absolute;top:264px;}.elementor-8 .elementor-element.elementor-element-f0b229e.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-8 .elementor-element.elementor-element-aaad0b2{--display:flex;--min-height:218px;--gap:0px;--background-transition:0.3s;}.elementor-8 .elementor-element.elementor-element-25e97f7{text-align:center;}@media(min-width:768px){.elementor-8 .elementor-element.elementor-element-f0b229e{--content-width:500px;}.elementor-8 .elementor-element.elementor-element-aaad0b2{--content-width:500px;}}/* Start custom CSS for container, class: .elementor-element-aaad0b2 */.glass-back {
+  background-color:hsla(0,0%,0%,0);
+  backdrop-filter: blur( 25px); 
+  -webkit-backdrop-filter: blur(25px);
+}/* End custom CSS */
